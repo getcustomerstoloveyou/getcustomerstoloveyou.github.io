@@ -111,12 +111,19 @@ h2{
 .start-now{
   background: #eee;
 }
-form.outline{
+.invite-form .outline{
   margin-top: 20px;
   margin-bottom: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px;
   border:5px solid rgba(255, 255, 255, 1.0);
+}
+.invite-form h3{
+  margin-top: 0;
+  font-size: 30px;
+}
+.invite-form .btn-success{
+  font-size: 20px;
+  padding: 0.5em 1.5em;
 }
 .start-now .btn-success{
   text-transform: uppercase;
