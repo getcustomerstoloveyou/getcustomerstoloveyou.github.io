@@ -78,7 +78,7 @@ h2{
   margin-bottom: 0;
 }
 .testimonials li{
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  xborder-bottom: 1px solid rgba(255, 255, 255, 0.5);
   padding-bottom: 1em;
   margin-bottom: 30px;
 }
@@ -98,6 +98,19 @@ h2{
 .testimonials .location{
   display: block;
   font-size: 14px;
+}
+.has-photo .name,
+.has-photo .location{
+  margin-left: 75px;
+  margin-left: 75px;
+}
+.has-photo .name{
+  margin-top: 20px;
+}
+.testimonials .profile-pic{
+  float: left;
+  width: 60px;
+  height: 60px;
 }
 .benefits li{
   background: url(../images/icon-happy-24.png) no-repeat;
@@ -132,6 +145,11 @@ h2{
 .we-wont-share{
   margin-top: 1em;
   font-size: 14px;
+}
+
+.header-image{
+  width: 100%;
+  height: auto;
 }
 @media (max-width: 767px) {
   body{
