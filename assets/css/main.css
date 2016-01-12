@@ -170,7 +170,8 @@ h2{
   .navbar-nav{
     margin: 0 auto;
   }
-  .main-msg img{
+  .main-msg img,
+  .thank-you img{
     max-width: 25%;
   }
   h1{
