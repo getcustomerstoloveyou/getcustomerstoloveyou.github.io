@@ -58,7 +58,8 @@ h2{
 
 .main-msg,
 .benefits,
-.testimonials{
+.testimonials,
+.thank-you{
   background: #5cb85c;
   color: #fff;
 }
