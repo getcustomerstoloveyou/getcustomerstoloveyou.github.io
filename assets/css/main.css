@@ -82,6 +82,13 @@ h2{
   font-size: 20px;
   padding: 0 40px;
 }
+.main-msg .btn-success{
+  margin-top: 20px;
+  font-size: 28px;
+  text-shadow: none;
+  text-transform: uppercase;
+  padding: 0.5em 1em;
+}
 .benefits ul,
 .testimonials ul{
   list-style-type: none;
@@ -206,5 +213,8 @@ h2{
   .we-wont-share{
     margin-top: 1em;
     font-size: 12px;
+  }
+  .main-msg .btn-success{
+    font-size: 18px;
   }
 }
