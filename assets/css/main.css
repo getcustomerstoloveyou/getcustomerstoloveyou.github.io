@@ -134,6 +134,7 @@ h2{
   background: url(../images/icon-happy-24.png) no-repeat;
   padding-left: 42px;
   margin-bottom: 1em;
+  min-height: 24px;
 }
 .navbar-brand{
   background: url(../images/icon-happy-28-black.png) no-repeat left center;
