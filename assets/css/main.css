@@ -180,6 +180,7 @@ h2{
   .navbar-nav{
     margin: 0 auto;
   }
+  .about-us img,
   .main-msg img,
   .thank-you img{
     max-width: 25%;
